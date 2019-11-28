@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Puzzle\ReturnPuzzle.js">
+    <Files>
+      <File FileName="Assets\Scripts\Puzzle\Puzzle1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Puzzle\CambioCamara.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Labyrinth\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Puzzle\ReturnPuzzle.js" Line="4" Column="2" />
+      <File FileName="Assets\Scripts\Menu\SubMenuButtons.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Puzzle\Aciertos.cs" Line="1" Column="1" />
+      <File FileName="Assets\MenuMusic.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Puzzle\Tiempo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Laberinto\ControladorDelJugador.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Laberinto\Tiempo1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
